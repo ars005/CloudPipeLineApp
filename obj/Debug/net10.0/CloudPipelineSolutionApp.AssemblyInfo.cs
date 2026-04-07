@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CloudPipelineSolutionApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+115e28a85cbb2c11b6d492052f9b9572279009e3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6470e7eb5507c62831e77fc37eab169589e61b15")]
 [assembly: System.Reflection.AssemblyProductAttribute("CloudPipelineSolutionApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CloudPipelineSolutionApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
